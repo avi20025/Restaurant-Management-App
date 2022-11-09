@@ -1,12 +1,3 @@
-/*
-Program Name: Hot Dog Stand
-Date:         2022-3-30
-Name:         Avinash Vadivelu
-Module Purpose: This program reads in the characteristics of various hot dog stands at different locations from an input file, the transactions 
-                made by each stand from another file, and the amount of hot dog each of the stands sold from a third file. After reading in all of this
-                information, it is then used to convey the intial and final states of the different stands.
-*/
-
 #ifndef HOTDOG_STAND_CLASS_CPP
 #define HOTDOG_STAND_CLASS_CPP
 #include "HotDogStandsClass.h"
